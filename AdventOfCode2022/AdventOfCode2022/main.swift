@@ -8,4 +8,4 @@
 import Foundation
 
 print("Hello, World!")
-day1()
+day1part1()

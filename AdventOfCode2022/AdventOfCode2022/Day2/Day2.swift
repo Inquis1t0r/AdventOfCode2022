@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+func day2part1(){
+    
+}
+
+func day2part2(){
+    
+}
